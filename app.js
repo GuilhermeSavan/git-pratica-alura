@@ -1,1 +1,2 @@
-Console.log ("praticando versionamento de codigo")
+Console.log ("praticando versionamento de codigo");
+console.log ("praticando add");
